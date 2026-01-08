@@ -12,6 +12,9 @@
 
 **Ссылка на проект в портфолио:** [ИИ-ассистент](https://vladislav-jb.github.io/ai-assistent/)
 
+**Ссылка на проект в портфолио:** [Транскрибация звонков](https://vladislav-jb.github.io/transcription-of-calls/)
+
+
 **Ссылка на портфолио:**  https://github.com/Vladislav-JB?tab=repositories
 
 ---
