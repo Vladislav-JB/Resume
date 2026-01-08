@@ -10,12 +10,15 @@
 
 **Контакты:** Телефон: 8-903-711-7241 / Email: mr.jb555@gmail.com / Telegram: https://t.me/mrJB555
 
-**Ссылка на проект в портфолио:** [ИИ-ассистент](https://vladislav-jb.github.io/ai-assistent/)
+**Ссылка на проект в портфолио:**  [ИИ-ассистент](https://vladislav-jb.github.io/ai-assistent/)
 
-**Ссылка на проект в портфолио:** [Транскрибация звонков](https://vladislav-jb.github.io/transcription-of-calls/)
+**Ссылка на проект в портфолио:**  [Транскрибация звонков](https://vladislav-jb.github.io/transcription-of-calls/)
 
+**Ссылка на проект в портфолио:**  [Компьютерное зрение](https://vladislav-jb.github.io/computer-vision/)
 
-**Ссылка на портфолио:**  https://github.com/Vladislav-JB?tab=repositories
+**Ссылка на проект в портфолио:**  [ИИ-ассистент для юридических консультаций](https://vladislav-jb.github.io/AI-legal-advice-assistent/)
+
+**Ссылка на портфолио:**  [Портфолио](https://github.com/Vladislav-JB?tab=repositories)
 
 ---
 
