@@ -8,7 +8,7 @@
 
 **Опыт работы:** опыт работы в администрирование ИТ-инфраструктуры более 20 лет.
 
-**Контакты:** Телефон: 8-903-711-7241 / Email: mr.jb555@gmail.com / Telegram: https://t.me/mrJB555
+**Контакты:** Телефон: 8-903-711-7241 / Email: [mr.jb555@gmail.com](mr.jb555@gmail.com)/ Telegram: [https://t.me/mrJB555](https://t.me/mrJB555)
 
 **Ссылка на проект в портфолио:**  [ИИ-ассистент](https://vladislav-jb.github.io/ai-assistent/)
 
