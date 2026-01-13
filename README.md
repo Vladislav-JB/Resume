@@ -4,7 +4,7 @@
 
 **Имя Фамилия:** Владислав Бабаджанов
 
-**Образование, курсы:** Высшее; имею сертификаты: Microsoft - [MCP](https://github.com/Vladislav-JB/Certificates/blob/main/MCP.jpg) и [MCSA](https://github.com/Vladislav-JB/Certificates/blob/main/MCSA.jpg); [Технический специалист онлайн-проектов](https://github.com/Vladislav-JB/Certificates/blob/main/Certificate_1.jpg); [Промпт-инжиниринг](https://github.com/Vladislav-JB/Certificates/blob/main/Certificate_2.png) Университет Zerocoder.
+**Образование, курсы:** Высшее; имею сертификаты: Microsoft - [MCP](https://github.com/Vladislav-JB/Certificates/blob/main/MCP.jpg) и [MCSA](https://github.com/Vladislav-JB/Certificates/blob/main/MCSA.jpg) ; [Технический специалист онлайн-проектов](https://github.com/Vladislav-JB/Certificates/blob/main/Certificate_1.jpg) ; [Промпт-инжиниринг](https://github.com/Vladislav-JB/Certificates/blob/main/Certificate_2.png) Университет Zerocoder.
 
 **Опыт работы:** опыт работы в администрирование ИТ-инфраструктуры более 20 лет.
 
