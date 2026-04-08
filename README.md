@@ -1,5 +1,5 @@
 # Профессиональное резюме                                             
-# Промпт-инженера                                                        ![Скриншот 1](https://github.com/Vladislav-JB/Resume/blob/main/image001.png?raw=true)                                                 
+# Промпт-инженера   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   ![Скриншот 1](https://github.com/Vladislav-JB/Resume/blob/main/image001.png?raw=true)                                                 
 ## Персональная информация
 
 **Имя Фамилия:** Владислав Бабаджанов
