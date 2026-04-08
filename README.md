@@ -1,4 +1,5 @@
-# Профессиональное резюме Промпт-инженера                                                   ![Скриншот 1](https://github.com/Vladislav-JB/Resume/blob/main/image001.png?raw=true) 
+# Профессиональное резюме                                             ![Скриншот 1](https://github.com/Vladislav-JB/Resume/blob/main/image001.png?raw=true) 
+# Промпт-инженера                                                 
 
 ## Персональная информация
 
