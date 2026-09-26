@@ -1,6 +1,10 @@
-# Профессиональное резюме                                             
-# Промпт-инженера                                                   
-## Персональная информация  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Скриншот 1](https://github.com/Vladislav-JB/Resume/blob/main/image001.png?raw=true)
+<style>h1,h2{display:flow-root}</style>
+
+<img src="https://github.com/Vladislav-JB/Resume/blob/main/image001.png?raw=true" alt="Фото" width="230" align="right">
+
+# Профессиональное резюме
+# Промпт-инженера
+## Персональная информация
 
 **Имя Фамилия:** Владислав Бабаджанов
 
