@@ -18,6 +18,8 @@
 
 **Ссылка на проект в портфолио:**  [Транскрибация звонков](https://vladislav-jb.github.io/transcription-of-calls/)
 
+**Ссылка на проект в портфолио:**  [Видеоролик для выставки](https://web-atelie.ru/video-vystavka/)
+
 **Ссылка на проект в портфолио:**  [Компьютерное зрение](https://vladislav-jb.github.io/computer-vision/)
 
 **Ссылка на проект в портфолио:**  [ИИ-ассистент для юридических консультаций](https://vladislav-jb.github.io/AI-legal-advice-assistent/)
