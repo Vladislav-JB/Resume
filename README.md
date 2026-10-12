@@ -16,9 +16,7 @@
 
 **Ссылка на проекты в портфолио:**  [ИИ-ассистент](https://vladislav-jb.github.io/ai-assistent/)  &nbsp; &nbsp; &nbsp; [ИИ-ассистент для ИТ-запросов](https://vladislav-jb.github.io/ai_assistant_for_IT_requests/)
 
-**Ссылка на проект в портфолио:**  [Транскрибация звонков](https://vladislav-jb.github.io/transcription-of-calls/)
-
-**Ссылка на проект в портфолио:**  [Видеоролик для выставки](https://web-atelie.ru/video-vystavka/)
+**Ссылка на проект в портфолио:**  [Транскрибация звонков](https://vladislav-jb.github.io/transcription-of-calls/)  &nbsp; &nbsp; &nbsp; [Видеоролик для выставки](https://web-atelie.ru/video-vystavka/)
 
 **Ссылка на проект в портфолио:**  [Компьютерное зрение](https://vladislav-jb.github.io/computer-vision/)
 
