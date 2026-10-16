@@ -18,7 +18,7 @@
 
 **Ссылка на проекты в портфолио:**  [Транскрибация звонков](https://vladislav-jb.github.io/transcription-of-calls/)  &nbsp; &nbsp; &nbsp; [Видеоролик для выставки](https://web-atelie.ru/video-vystavka/)
 
-**Ссылка на проекты в портфолио:**  [Компьютерное зрение](https://vladislav-jb.github.io/computer-vision/)  &nbsp; &nbsp; &nbsp; **Мини-приложения:** [Mini Apps](#)
+**Ссылка на проекты в портфолио:**  [Компьютерное зрение](https://vladislav-jb.github.io/computer-vision/)  &nbsp; &nbsp; &nbsp; **Мини-приложения:** [Mini Apps](https://web-atelie.ru/mini-apps/)
 
 **Ссылка на проекты в портфолио:**  [ИИ-ассистент для юридических консультаций](https://vladislav-jb.github.io/AI-legal-advice-assistent/)  &nbsp; &nbsp; &nbsp; **Веб-сайты:** [Веб-Ателье](https://web-atelie.ru/)
 
